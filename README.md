@@ -1,4 +1,4 @@
-# Django-WebApp       <img alt="GitHub" >
+# Django-WebApp       
 
 
 <h2>Project Problem Statement:</h2>
